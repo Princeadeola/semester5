@@ -1,0 +1,1 @@
+This is notepad opened here while testing my git bash
